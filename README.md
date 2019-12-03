@@ -5,4 +5,5 @@
 <img src="https://img.shields.io/badge/Repo_Size-868_bytes-yellow.svg" />
 <img src="https://img.shields.io/badge/IDE-Sublime-orange.svg" />
 <img src="https://img.shields.io/badge/Language-HTML_and_CSS-red.svg" />
+<img src="https://github.com/Cm-Champ/Notebook-Page-Layout/blob/master/Preview.jpg" />
 </p>
