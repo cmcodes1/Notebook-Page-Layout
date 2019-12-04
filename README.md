@@ -9,7 +9,7 @@
 </p>
 <div style="text-align:center;">
 <h3> Browser Compatibility </h3>
-<table align="center">
+<table style="width: 80%; align: center;">
   <tr>
     <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" /> </td>
     <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" /> </td>
@@ -17,7 +17,7 @@
     <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png" /> </td>
     <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png" /> </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td> ✔ </td>
     <td> ✔ </td>
     <td> ✔ </td>
@@ -25,4 +25,3 @@
     <td> ✔ </td>
   </tr>
 </table>
-</div>
