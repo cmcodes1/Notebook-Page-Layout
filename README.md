@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Language-HTML_and_CSS-red.svg" /> <br/> <br/>
 <img src="https://github.com/Cm-Champ/Notebook-Page-Layout/blob/master/Preview.JPG" />
 </p>
-### Browser Compatibility
-![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png)
+<h3> Browser Compatibility </h3>
+<img src="https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" /> | <img src="https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" /> | <img src="https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png" /> | <img src="https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png" /> | <img src="https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png" />
 --- | --- | --- | --- | --- |
 ✔ | ✔ | ✔ | ✔ | ✔ |
