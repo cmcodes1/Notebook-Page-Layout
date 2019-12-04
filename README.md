@@ -7,8 +7,9 @@
 <img src="https://img.shields.io/badge/Language-HTML_and_CSS-red.svg" /> <br/> <br/>
 <img src="https://github.com/Cm-Champ/Notebook-Page-Layout/blob/master/Preview.JPG" />
 </p>
-<h3  align="center"> Browser Compatibility </h3>
-<table align="center">
+<div align="center">
+<h3> Browser Compatibility </h3>
+<table>
   <tr>
     <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" /> </td>
     <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" /> </td>
@@ -24,3 +25,4 @@
     <td> ✔ </td>
   </tr>
 </table>
+</div>
