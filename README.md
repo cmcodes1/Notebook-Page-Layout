@@ -9,6 +9,11 @@
 </p>
 <div style="text-align:center;">
 <h3> Browser Compatibility </h3>
+table {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
 <table>
   <tr>
     <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" /> </td>
