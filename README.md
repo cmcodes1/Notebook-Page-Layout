@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Language-HTML_and_CSS-red.svg" /> <br/> <br/>
 <img src="https://github.com/Cm-Champ/Notebook-Page-Layout/blob/master/Preview.JPG" />
 </p>
-<div align="center">
+<div style="text-align:center;">
 <h3> Browser Compatibility </h3>
 <table>
   <tr>
