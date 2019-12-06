@@ -9,7 +9,7 @@
 </p>
 <h3> Browser Compatibility </h3>
 <table>
-  <tr>
+  <tr align="center">
     <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" /> </td>
     <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" /> </td>
     <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png" /> </td>
